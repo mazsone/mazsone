@@ -1,9 +1,4 @@
-## MAZSONE 👋
-
-Mazsone is a next-gen ecommerce platform that empowers merchants, admins, and developers to build, scale, and manage digital commerce — all from one unified system.
-Powered by the Mazs1 Core Engine, it's designed to handle everything from product management and vendor operations to secure checkout and analytics.
-
-# 🌀 Mazsone – next-gen ecommerce platform
+# Mazsone – next-gen ecommerce platform
 
 **Mazsone** is a next-gen ecommerce framework designed to power marketplaces, storefronts, and merchant platforms – all from one unified core. Built with the philosophy of **Merchant to Admin, System to Service**, Mazsone delivers flexibility, performance, and developer happiness.
 
