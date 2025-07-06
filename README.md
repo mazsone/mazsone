@@ -1,4 +1,5 @@
 # Mazsone – next-gen ecommerce platform
+![mazsone](https://github.com/user-attachments/assets/338d5c40-3621-4b03-94c2-4d7624690091)
 
 **Mazsone** is a next-gen ecommerce framework designed to power marketplaces, storefronts, and merchant platforms – all from one unified core. Built with the philosophy of **Merchant to Admin, System to Service**, Mazsone delivers flexibility, performance, and developer happiness.
 
